@@ -21,11 +21,11 @@ body{
     --color-white: #fff;
     --color-light-white:#eee;
 
-    --color-screen: #230770;
-    --color-purple-transparent: rgba(88,24,69,.9);
-    --color-pink-transparent: rgba(216,14,91, .9);
+    --color-screen: #4F7980;
+    --color-purple-transparent: #2B7480;
+    --color-pink-transparent: #9EF2FF;
 
-    --color-orange: #0c67a3;
+    --color-orange:#7EC2CC;
 
     --color-light-black:#222;
     --color-black: #000;
@@ -136,6 +136,3 @@ body{
     }
 
   }
-
-
-
